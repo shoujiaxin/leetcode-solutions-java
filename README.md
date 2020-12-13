@@ -1,2 +1,3 @@
-# leetcode-solutions-java
-Java solutions of LeetCode algorithm problems
+# LeetCode Solutions
+
+Java solutions of LeetCode algorithm problems.
